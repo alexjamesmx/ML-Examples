@@ -1,1 +1,1 @@
-4 ML excersices for data knowledge/analysis made in jupyter notebook 
+4 ML examplesfor data knowledge/analysis made in jupyter notebook 
